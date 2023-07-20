@@ -1,0 +1,10 @@
+http://localhost:3000/dummy-stack
+http://localhost:3000/dummy-queue
+http://localhost:3000/dummy-binary-tree
+http://localhost:3000/dummy-linked-list
+http://localhost:3000/dummy-tree
+http://localhost:3000/bfs
+http://localhost:3000/dfs
+http://localhost:3000/search-by-email?email=user0@example.com
+http://localhost:3000/generate-random
+http://localhost:3000/fibonacci/10
